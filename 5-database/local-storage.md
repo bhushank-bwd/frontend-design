@@ -10,7 +10,7 @@
 
 > **Data persistance** -> persists across browser session and tab closer
 
-> **Data Structure** key:value _(value alway string)_
+> **Data Structure** key:value _(value alway string or use JSON stringify to store and to retrieve use parse)_
 
 > **Security** can encrypt, depends upon storage, CORS XSS ensure
 
